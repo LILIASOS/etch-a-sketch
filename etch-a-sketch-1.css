@@ -1,0 +1,21 @@
+ */
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.parent-element {
+    display: flex;                 
+    flex-direction: column;       
+    justify-content: center;        
+    align-items: center;            
+    margin-bottom: 15px;          
+}
+
+
+#container {
+    display: flex;                
+    flex-wrap: wrap;              
+}
+
